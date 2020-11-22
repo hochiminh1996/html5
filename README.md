@@ -5,7 +5,6 @@
 
 Conteúdo básico de estruturação das aulas de Desenvolvimento Web, com ênfase em HTML5 e CSS3.
 
----
 ```
 <!doctype html>
   <html lang="pt-br">
