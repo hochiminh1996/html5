@@ -1,5 +1,5 @@
-# HTML5
-Conteúdo básico de estruturação das aulas de Desenvolvimento Web, com ênfase em HTML5 e CSS3.
+# HTML5/CSS3
+Conteúdo básico de estruturação das aulas de Desenvolvimento Web, com ênfase em HTML5 e CSS3. Posteriormente, será implementado adicionado mais algumas tecnologias : PHP, JS, React e MySQL.
 
 ![img](https://github.com/hochiminh1996/html5/blob/master/_img/html_css.png);
 ```
